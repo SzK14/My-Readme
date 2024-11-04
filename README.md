@@ -1,8 +1,7 @@
 <h1 align = "center">👋 Hi, I’m Sebastian 🤙<h1/>
 
-<h3> I am a programming student passionate about developing websites, games, and mobile applications. 
-  I love working with front-end frameworks. 
-  My goals are to become a Web  Game and iOS developer.</h3>
+<h3>I am a programmer passionate about developing websites, games, and mobile applications. 
+  I enjoy working with front-end frameworks and am focused on becoming a specialist in game development, web-based games, and iOS app development..</h3>
 <br>
 <h2>Programming & Tools 💻 📱🎮 </h2>
 <div alig="left">

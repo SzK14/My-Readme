@@ -35,6 +35,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="Github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress logo"  />
+  <img width="12" />
 
 
 </div>

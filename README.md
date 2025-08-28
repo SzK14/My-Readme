@@ -1,51 +1,61 @@
-<h1 align = "center">👋 Hi, I’m Sebastian 🤙<h1/>
+# 👋 Hi, I’m Sebastian  
 
-<h3>I am a programmer passionate about developing websites, games, and mobile applications. 
-  I enjoy working with front-end frameworks and am focused on becoming a specialist in game development, web-based games, and iOS app development..</h3>
-<br>
-<h2>Programming & Tools 💻 📱🎮 </h2>
-<div alig="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharps logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unreal logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="Adobe xd logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="Github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress logo"  />
-  <img width="12" />
+💻 I’m a **Creative Producer & Developer** passionate about creating **websites, apps, and video games**.  
+🎮 Currently focusing on:  
+- **Game Development** (Unity & Unreal Engine)  
+- **Web Development** (React, Next.js, Framer, SEO & Ads integration)  
+- **Mobile Development** (iOS with Swift & cross-platform apps)  
 
+🚀 My goal is to become a **specialist in front-end frameworks, game development, and iOS apps**, while building impactful digital solutions.  
 
-</div>
+---
 
-<!---
-SzK14/SzK14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Programming & Tools  
+
+### 🌐 Web & Frontend  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/astro" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/framer" width="40" height="40"/>
+</p>
+
+### ⚙️ Backend & Mobile  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+</p>
+
+### 🎮 Game Development  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/>
+</p>
+
+### 🧰 Tools & Workflow  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/miro" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/clickup" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/googleads" width="40" height="40"/>
+</p>
+
+---
+
+## 📫 Connect with me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-garcia-dev/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://szk-dev.framer.website/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sebaatianj16@gmail.com)  
